@@ -1,11 +1,5 @@
 # 💫 About Me:
-I’m a Full-Stack Software Developer with experience building scalable web applications using the MERN stack, Next.js, JavaScript, PHP, and Python. I specialize in designing and developing user-focused systems such as e-commerce platforms, booking systems, tourism platforms, and enterprise solutions.
- 
-I have developed systems including the Wheeltek Parian E-commerce and Booking Management System, the DOT CALABARZON tourism platform for accredited business listings, and the KUDA E-Bike Management System, an AI-powered platform with intelligent chatbot functionality.
- 
-I apply strong software engineering and project management principles to deliver structured, efficient, and maintainable systems from architecture to deployment.
- 
-Currently, I am advancing my expertise in Artificial Intelligence and actively exploring Agentic AI systems, focusing on building intelligent applications that automate processes, improve decision-making, and enhance user experience in modern software systems.
+Full-Stack Software Developer experienced in building scalable web applications using the MERN stack, Next.js, JavaScript, PHP, and Python. Passionate about developing user-focused systems, AI-powered applications, and modern software solutions with clean architecture and efficient workflows. Currently exploring Artificial Intelligence and Agentic AI to create smarter and more automated digital experiences.
 
 
 ## 🌐 Socials:
